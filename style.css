@@ -80,6 +80,11 @@ body{
     font-size: 24px;
 }
 
+    .conteudo-principal-escrito-botao:hover {
+        background: rgba(177, 164, 137, 0.53);
+        box-shadow: 5px 5px rgba(20, 20, 20, 0.411);
+    }
+
 .conteudo-principal-imagem {
     height: 430px;
 }
@@ -108,3 +113,14 @@ body{
     font-size: 18px;
     color: #ECD6C4;
 } 
+
+.rodape {
+    padding: 32px;
+    border-top: 0.4px solid #FFF2E7;
+}
+
+.rodape-imagem {
+    height: 48px;
+    display: block;
+    margin: 0 auto;
+}
